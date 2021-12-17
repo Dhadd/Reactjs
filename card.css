@@ -1,0 +1,20 @@
+.individualCard{
+    background-color: rgb(0, 47, 255);
+    width: 350px;
+    margin-right: 10px;
+    padding:8px ;
+    /* border: 1px solid red; */
+    color: white;
+    margin-right: 10px;
+
+}
+.topSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bottomTopSectio{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+}
